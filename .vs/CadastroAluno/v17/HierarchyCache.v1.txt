@@ -1,0 +1,256 @@
+﻿++Solução 'CadastroAluno' ‎(2 de 2 projetos)
+i:{00000000-0000-0000-0000-000000000000}:CadastroAluno.sln
+++CadastroAlunoAPI
+i:{00000000-0000-0000-0000-000000000000}:CadastroAlunoAPI
+++Connected Services 
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:>686
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:>633
+++Nenhuma dependência de serviço descoberta
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:>687
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:>634
+++Dependências
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:>688
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:>632
+++Analisadores
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:analisadores
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:analisadores
+++Estruturas
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:estruturas
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:estruturas
+++Pacotes
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:pacotes
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:pacotes
+++Swashbuckle.AspNetCore (5.6.3)
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:>725
+++Properties
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:e:\.netprojeto\cadastroaluno\cadastroalunoapi\properties\
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\properties\
+++Controllers
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:e:\.netprojeto\cadastroaluno\cadastroalunoapi\controllers\
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\controllers\
+++appsettings.json
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:e:\.netprojeto\cadastroaluno\cadastroalunoapi\appsettings.json
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\appsettings.json
+++Program.cs
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:e:\.netprojeto\cadastroaluno\cadastroalunoapi\program.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\program.cs
+++Startup.cs
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:e:\.netprojeto\cadastroaluno\cadastroalunoapi\startup.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\startup.cs
+++WeatherForecast.cs
+++Microsoft.AspNetCore.Analyzers
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.AspNetCore.App
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\microsoft.aspnetcore.app
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:e:\.netprojeto\cadastroaluno\cadastroalunoapi\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\microsoft.netcore.app
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:e:\.netprojeto\cadastroaluno\cadastroalunoapi\microsoft.netcore.app
+++launchSettings.json
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:e:\.netprojeto\cadastroaluno\cadastroalunoapi\properties\launchsettings.json
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\properties\launchsettings.json
+++WeatherForecastController.cs
+++appsettings.Development.json
+i:{f2957ac0-71e4-41c2-869d-2ecd38ef2626}:e:\.netprojeto\cadastroaluno\cadastroalunoapi\appsettings.development.json
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\appsettings.development.json
+++CadatroAluno
+i:{00000000-0000-0000-0000-000000000000}:CadatroAluno
+++wwwroot
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\
+++Context
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\context\
+++Migrations
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\migrations\
+++20220223090952_Inicial.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\migrations\20220223090952_inicial.cs
+++20220223164100_Atualizacao.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\migrations\20220223164100_atualizacao.cs
+++20220223164100_Atualizacao.Designer.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\migrations\20220223164100_atualizacao.designer.cs
+++AppDbContextModelSnapshot.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\migrations\appdbcontextmodelsnapshot.cs
+++Models
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\models\
+++Views
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\
+++css
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\css\
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\js\
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\
+++favicon.ico
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\favicon.ico
+++AppDbContext.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\context\appdbcontext.cs
+++AlunosController.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\controllers\alunoscontroller.cs
+++CursosController.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\controllers\cursoscontroller.cs
+++HomeController.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\controllers\homecontroller.cs
+++20220223090952_Inicial.Designer.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\migrations\20220223090952_inicial.designer.cs
+++Aluno.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\models\aluno.cs
+++Curso.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\models\curso.cs
+++Diciplina.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\models\diciplina.cs
+++ErrorViewModel.cs
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\models\errorviewmodel.cs
+++Alunos
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\alunos\
+++Cursos
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\cursos\
+++Home
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\home\
+++Shared
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\shared\
+++_ViewImports.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\_viewstart.cshtml
+++Microsoft.CodeAnalysis.Analyzers
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:c:\users\josia\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:c:\users\josia\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:c:\users\josia\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.14\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.EntityFrameworkCore (5.0.14)
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:>645
+++Microsoft.EntityFrameworkCore.Design (5.0.14)
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:>647
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.12)
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:>646
+++Microsoft.EntityFrameworkCore.Tools (5.0.12)
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:>648
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:>649
+++site.css
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\css\site.css
+++site.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\js\site.js
+++bootstrap
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\
+++jquery
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery\
+++jquery-validation
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery-validation-unobtrusive\
+++Create.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\alunos\create.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\cursos\create.cshtml
+++Delete.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\alunos\delete.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\cursos\delete.cshtml
+++Details.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\alunos\details.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\cursos\details.cshtml
+++Edit.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\alunos\edit.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\cursos\edit.cshtml
+++Index.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\alunos\index.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\cursos\index.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\home\index.cshtml
+++Privacy.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\home\privacy.cshtml
+++_Layout.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\views\shared\error.cshtml
+++dist
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery\dist\
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery\license.txt
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-flatly.css
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap-flatly.css
+++bootstrap-grid.css
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.css.map
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.css.map
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap.bundle.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.min.js.map
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{37625d78-b245-4df6-ba1a-b420a99fc3fa}:e:\.netprojeto\cadastroaluno\cadatroaluno\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
